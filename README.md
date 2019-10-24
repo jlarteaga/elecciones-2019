@@ -3,6 +3,6 @@
 Using mysql-client:
 
 1) USE [database];
-2) source [PATH]/computoYYYYMMDDhhmmss.sql;
-3) source [PATH]/trepYYYYMMDDhhmmss.sql;
+2) SOURCE [PATH]/computoYYYYMMDDhhmmss.sql;
+3) SOURCE [PATH]/trepYYYYMMDDhhmmss.sql;
 4) Enjoy ^^
